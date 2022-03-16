@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# BASIC REACT APP WEBSITE
+This website was done to fortify my skills and knowledge using ReactJS. This is part of a series of projects that starts from the basics to advanced setups. In this project, it used higher order functions of JS and talked a lot about props.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
